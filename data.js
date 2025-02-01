@@ -34,6 +34,12 @@ var APP_DATA = {
           "pitch": 0.1445619593458236,
           "rotation": 0.7853981633974483,
           "target": "3-docharunku"
+        },
+        {
+          "yaw": -1.389298383335312,
+          "pitch": 0.07200690150707345,
+          "rotation": 0,
+          "target": "1-zumivnuk"
         }
       ],
       "infoHotspots": [
@@ -187,7 +193,7 @@ var APP_DATA = {
         {
           "yaw": -1.0426539435545443,
           "pitch": 0.020071925702840332,
-          "title": "Для бесвд про бджоли",
+          "title": "Для бесід про бджоли",
           "text": "Text"
         }
       ]
